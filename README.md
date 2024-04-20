@@ -56,6 +56,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [Qt for Python (PyQt5)](https://www.riverbankcomputing.com/software/pyqt/intro) for the GUI framework.
 - [OpenCV](https://opencv.org/) for image processing capabilities.
 
-## Contact
-For any questions or queries, you can reach out at [your-email@example.com](mailto:your-email@example.com).
 
