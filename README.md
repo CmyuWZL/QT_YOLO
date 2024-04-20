@@ -40,10 +40,10 @@ This project aims to demonstrate the real-time object and face detection capabil
 ## Screenshots 📷
 - Object Detection Example
   
-  ![Object Detection](screenshots/object_detection.png)
+  ![Object Detection](./screenshots/object_detection.png)
 - Face Detection Example
   
-  ![Face Detection](screenshots/face_detection.png)
+  ![Face Detection](./screenshots/face_detection.png)
 
 ## Contributing 👥
 Contributions are welcome! For bug reports or requests, please submit an issue or open a pull request.
