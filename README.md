@@ -41,9 +41,11 @@ You can configure the detection parameters in the `config.py` file, such as the 
 
 ## Screenshots
 - Object Detection Example
-  ![Object Detection](./screenshot/object_detection.png)
+  
+  ![](./screenshot/object_detection.png)
 - Face Detection Example
-  ![Face Detection](./screenshot/face_detection.png)
+  
+  ![](./screenshot/face_detection.png)
 
 ## Contributing
 Contributions are welcome! For bug reports or requests, please submit an issue or open a pull request.
